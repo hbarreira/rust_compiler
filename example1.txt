@@ -1,0 +1,13 @@
+fn main() {
+ io::stdin().read_line(a2);
+ #let y=12;
+ let x = y - 2*5;
+ if x==3 {
+  let x=y*2;
+ }
+ while x<4 {
+   let x=x+1;
+ }
+ let v=4/5;
+ println!("aah");
+}
